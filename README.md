@@ -97,3 +97,4 @@ Dashboard dal design minimal e intuitivo:
 
 
 ### 🧩 Schema ER del Database
+![Schema ER del database](./schema-ER-FabLab.jpeg)
